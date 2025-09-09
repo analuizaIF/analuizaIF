@@ -1,5 +1,5 @@
-- 👋 Oi, I’m @analuizaIF
-- 🌱 Em andamento..: Análise e Desenvolvimento de Sistemas (ADS)
+- 👋 Oi, Eu sou @analuizaIF
+- 🌱 Em andamento..: Análise e Desenvolvimento de Sistemas (ADS) - IFPI
 - 📫 Como me encontrar: https://lattes.cnpq.br/
 
 
